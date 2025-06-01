@@ -1,2 +1,4 @@
-#exclude files from git
+#exclude credentials
 .env
+#exclude whole wordpress
+wp_data/
